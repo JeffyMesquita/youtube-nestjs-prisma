@@ -1,1 +1,10 @@
 /node_modules
+/generated/prisma
+/data
+/dist
+/build
+
+
+
+.env
+
